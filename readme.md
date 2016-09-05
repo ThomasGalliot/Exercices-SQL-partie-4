@@ -40,7 +40,7 @@ Afficher tous les prix de billets compris entre 5 € et 20 €.
 
 ##Bonus
 
-En utilisant la même requête que pour les execcices 7 et 8,  afficher tous les clients dont le nom commence par "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K" ou "L". Les trier par nom.
+En utilisant la même requête que pour les exercices 7 et 8,  afficher tous les clients dont le nom commence par "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K" ou "L". Trier le champs nom par ordre alphabétique.
 
 ##Exercice 9
 
@@ -56,10 +56,10 @@ Afficher tous les clients dont le nom se trouve dans cette liste :
 
 Faubert, Dubeau, Soucy, Michaud, Rivière, Lacroix, Demers, Tritan.
 
-Les trier par nom.
+Trier le champs nom par ordre alphabétique.
 
 ##Exercice 12
 
 Afficher tous les clients dont le nom n'est pas dans cette liste.
 
-Les trier par nom;
+Trier le champs nom par ordre alphabétique.
