@@ -1,4 +1,4 @@
-#SQL - Partie 4
+#SQL - Partie 4 : Lecture des données avec condition complexe
 
 **Avant de commencer, exécuter le script colysee.sql**
 
