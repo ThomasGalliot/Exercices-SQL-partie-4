@@ -1,7 +1,7 @@
 # SQL - Partie 4 : Insertion de données
 
 ## Exercice 1
-Dans la table *languages* insérez les données suivants :
+Dans la table *languages* insérez les données suivantes :
 - JavaScript version 5
 - PHP version 5.2
 - PHP version 5.4
@@ -12,7 +12,7 @@ Dans la table *languages* insérez les données suivants :
 - PHP version 7
 
 ## Exercice 2
-Dans la table *frameworks* insérez les données suivants :
+Dans la table *frameworks* insérez les données suivantes :
 - Symfony version 2.8
 - Symfony version 3
 - Jquery version 1.6
