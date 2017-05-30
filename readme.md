@@ -1,65 +1,19 @@
-#SQL - Partie 4 : Lecture des données avec condition complexe
+# SQL - Partie 4 : Insertion de données
 
-**Avant de commencer, exécuter le script colysee.sql**
+## Exercice 1
+Dans la table *languages* insérez les données suivants :
+- JavaScript version 5
+- PHP version 5.2
+- PHP version 5.4
+- HTML version 5.1
+- Javascript version 6
+- Javascript version 7
+- Javascript version 8
+- PHP version 7
 
-##Exercice 1
-
-Afficher tous les clients dont le nom commence par la lettre "L".
-
-##Exercice 2
-
-Afficher tous les clients dont le nom commence par "L" et qui ne contiennent que 5 lettres.
-
-##Exercice 3
-
-Afficher tous les clients dont le nom commence par "P" et finit par "ski".
-
-##Exercice 4
-
-Afficher tous les clients dont le nom commence par "A", finit par "da" et ne contient que 8 lettres.
-
-##Exercice 5
-
-Afficher le nom de tous les clients dont le nom ne contient pas la lettre "a".
-
-##Exercice 6
-
-Afficher tous les prix de billets commençant par le chiffre 2.
-
-##Bonus
-
-Afficher tous les clients dont le nom contient "L". Attention : les clients dont le nom contient "l" ne doivent pas apparaître.
-
-##Exercice 7
-
-Afficher tous les spectacles ayant lieu entre le 15 mai 2016 et le 15 aôut 2016.
-
-##Exercice 8
-
-Afficher tous les prix de billets compris entre 5 € et 20 €.
-
-##Bonus
-
-En utilisant la même requête que pour les exercices 7 et 8,  afficher tous les clients dont le nom commence par "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K" ou "L". Trier le champs nom par ordre alphabétique.
-
-##Exercice 9
-
-Afficher tous les spectacles qui ne se déroulent pas entre le 1er janvier 2016 et le 15 février 2016.
-
-##Exercice 10
-
-En utilisant le même requête que pour l'exercice 9, afficher toutes les réservations qui concernent moins de 2 billets et plus de 6 billets.
-
-##Exercice 11
-
-Afficher tous les clients dont le nom se trouve dans cette liste :
-
-Faubert, Dubeau, Soucy, Michaud, Rivière, Lacroix, Demers, Tritan.
-
-Trier le champs nom par ordre alphabétique.
-
-##Exercice 12
-
-Afficher tous les clients dont le nom n'est pas dans cette liste.
-
-Trier le champs nom par ordre alphabétique.
+## Exercice 2
+Dans la table *frameworks* insérez les données suivants :
+- Symfony version 2.8
+- Symfony version 3
+- Jquery version 1.6
+- Jquery version 2.10
